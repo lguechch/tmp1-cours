@@ -1,0 +1,4 @@
+# Pour ignrer les copy du dossier "work", le fichier "fichier1.bin" et les fichiers "*.o"
+work
+fichier1.bin
+*.o
